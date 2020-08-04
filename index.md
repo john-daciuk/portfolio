@@ -2,7 +2,9 @@
 Spearheaded a team of three to write a technical paper threading together recent works devoted to MPC algorithms for graph and DP problems.
 <a href="Advanced_Algorithms_Project.pdf" target="_blank" >  Read the paper here </a>
 
-
+## Kaggle Covid-19 Competition
+Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
+See the <a href="https://john-daciuk.github.io/pente/" target="_blank"> paper </a> and the <a href="https://john-daciuk.github.io/pente/" target="_blank"> Jupyter Notebook </a>
 
 ## Connect 4 (2020)
 A variation on Connect 4 I built to learn about HTML5 Canvas.
@@ -36,9 +38,13 @@ Researched and implemented theory to train linear models from scratch and neural
 PPS is a course I took at columbia which emphasizes collaboration on difficult open-ended problems to be solved through programming.  For the project 'Lunch' <a href="lunch" target="_blank"> (see our paper) </a> my team built an autonomous agent capable of coordinating strategy with the other teams' agents.  For the project 'Mutation', my team used theory from causal inference to build a model capable of predicting underlying mutation rules from many observations of digital experiments <a href="mutation" target="_blank"> (read our mathematical analysis) </a>.  For another project my team analyzed the robustness of different systems of voting and representation to gerrymandering.  We tessellated a fictitious country of 300,000+ voters with Voronoi districts and simulated results using SciPy and Monte-Carlo techniques <a href="threeland" target="_blank"> (see a detailed exposition of our techniques) </a>.  The project 'Flip', similar to 'Lunch', emphasized building an agent that could strategize dynamically.  We had a class tournament to simulate hundreds of 1 on 1 matches between the different teams and my team came in 2nd place out of 8 <a href="flip" target="_blank"> (see our report) </a>.
 
 
+## Pente for iOS (2018) 
+Developed a grid-based game with Swift and principled MVC design that adapts to any device size; leveraged Google Firebase to allow online play; used custom view classes and protocols.
 
 
-## Comparative Analysis of SGD Optimization Variants
+
+
+## Comparative Analysis of SGD Optimization Variants (2018)
 Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
 
 
