@@ -1,9 +1,7 @@
 
 
-<a href="rl.html" target="_blank"> <h1> example </a>
-
-# Reinforcement Learning Project (2019)
-[view notebook](https://john-daciuk.github.io/rl/)
+<a href="rl.html" target="_blank"> <h1> Reinforcement Learning Project (2019) </a>
+Researched and implemented theory to train linear models from scratch and neural nets with TensorFlow for OpenAI Gym control environments.
 
 
 - Bulleted
