@@ -10,7 +10,9 @@ Fun game I built while learning Javascript through Angela Yu's web development c
 
 <h1> Landscape Painting with GANs </h1>
 <a href="DL-final-project-training.html" target="_blank"> Data Collection and Training with Google Cloud P100 GPUs </a>
+
 <a href="DL-final-project-results.html" target="_blank"> Generated Paintings and Analysis of Trained GANs </a>
+
 Scraped the web for 20,000 paintings and used Google cloud GPUs to train DCGANs; created thousands of beautiful and novel paintings in 128x128 resolution.
 
 
