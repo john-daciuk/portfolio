@@ -6,3 +6,5 @@ Researched and implemented theory to train linear models from scratch and neural
 <h1> <a href="https://tralpha.github.io/spotify-project/project-statement-and-goals.html" target="_blank"> Playlist Recommendation with Spotify’s Million Playlist Dataset (2018) </a> </h1>
 Utilized Python, Pandas, scikit-learn and random forests to build a recommendation system able to generate playlists; evaluated with r-precision.
 
+<h1> <a href="Advanced_Algorithms_Project.pdf" target="_blank"> Playlist Recommendation with Spotify’s Million Playlist Dataset (2018) </a> </h1>
+
