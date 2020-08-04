@@ -3,7 +3,7 @@
 <a href="rl.html" target="_blank"> <h1> Reinforcement Learning Project (2019) </h1> </a>
 
 
-<a href="rl.html" target="_blank" style="font-size: 100px"> HTML 5 </a>
+<a href="rl.html" target="_blank" style="font-size: 500px"> HTML 5 </a>
 Researched and implemented theory to train linear models from scratch and neural nets with TensorFlow for OpenAI Gym control environments.
 
 update
