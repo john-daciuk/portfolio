@@ -4,7 +4,7 @@ Spearheaded a team of three to write a technical paper threading together recent
 
 ## Kaggle Covid-19 Competition
 Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
-See <a href="ML_Final_Project" target="_blank"> here </a> for detailed methodology and results.
+See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
 ## Connect 4 (2020)
 A variation on Connect 4 I built to learn about HTML5 Canvas.
