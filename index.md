@@ -1,4 +1,4 @@
-# John Daciuk's Portfolio
+John Daciuk's Portfolio
 
 ## Synthesis of Recent Advances in Massively Parallel Computation (2020)
 Spearheaded a team of three to write a technical paper threading together recent works devoted to MPC algorithms for graph and DP problems.
