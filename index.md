@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="URL" />
 
 <h1> <a href="Advanced_Algorithms_Project.pdf" target="_blank" style="color:gray; hover:red;" > Synthesis of Recent Advances in Massively Parallel Computation (2020) </a> </h1>
 
