@@ -1,6 +1,6 @@
 
 
-<a href="rl.html" target="_blank">example</a>
+<a href="rl.html" target="_blank">#example</a>
 
 # Reinforcement Learning Project (2019)
 [view notebook](https://john-daciuk.github.io/rl/)
