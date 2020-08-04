@@ -1,7 +1,7 @@
 
 
-# Reinforcement Learning Project (2019)
-[Link](https://john-daciuk.github.io/rl/)
+
+[# Reinforcement Learning Project (2019)](https://john-daciuk.github.io/rl/)
 
 
 - Bulleted
