@@ -1,5 +1,5 @@
 
-<h1> <a href="Advanced_Algorithms_Project.pdf" target="_blank" style="color:red"> Synthesis of Recent Advances in Massively Parallel Computation (2020) </a> </h1>
+<h1> <a href="Advanced_Algorithms_Project.pdf" target="_blank" style="color:#FF0000;" > Synthesis of Recent Advances in Massively Parallel Computation (2020) </a> </h1>
 
 <h1> <a href="https://john-daciuk.github.io/pente/" target="_blank"> Connect 4 (2020) </a> </h1>
 A variation on Connect 4 I built to learn about HTML5 Canvas.
