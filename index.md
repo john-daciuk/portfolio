@@ -1,9 +1,11 @@
-#Synthesis of Recent Advances in Massively Parallel Computation (2020)
+# Synthesis of Recent Advances in Massively Parallel Computation (2020)
 Spearheaded a team of three to write a technical paper threading together recent works devoted to MPC algorithms for graph and DP problems.
+
 <a href="Advanced_Algorithms_Project.pdf" target="_blank" >  Read the paper here </a>
 
-#Connect 4 (2020)
+# Connect 4 (2020)
 A variation on Connect 4 I built to learn about HTML5 Canvas.
+
 <a href="https://john-daciuk.github.io/pente/" target="_blank"> Play here </a>
 
 
