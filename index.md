@@ -1,5 +1,6 @@
 
-[view](rl.html)
+[view](rl.html){:target="_blank" rel="noopener"}
+
 # Reinforcement Learning Project (2019)
 [view notebook](https://john-daciuk.github.io/rl/)
 
