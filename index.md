@@ -9,7 +9,7 @@ A variation on Connect 4 I built to learn about HTML5 Canvas.
 Fun game I built while learning Javascript through Angela Yu's web development course on Udemy.
 
 <h1> Landscape Painting with GANs </h1>
-<a href="DL-final-project-training.html" target="_blank"> Data Collection and Training with Google Cloud P100 GPUs </a>
+<a href="DL-final-project training.html" target="_blank"> Data Collection and Training with Google Cloud P100 GPUs </a>
 
 <a href="DL-final-project-results.html" target="_blank"> Generated Paintings and Analysis of Trained GANs </a>
 
