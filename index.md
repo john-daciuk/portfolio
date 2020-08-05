@@ -10,6 +10,13 @@ Spearheaded a team of three to write a technical paper threading together recent
 Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
+
+
+<br/><br/><br/><br/>
+
+
+
+
 ## Connect 4 and Simon (2020)
 <img align="left" src="pente.png" alt="Connect 4" width="200"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  
 
