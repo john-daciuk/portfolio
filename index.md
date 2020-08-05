@@ -14,7 +14,7 @@ See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed meth
 
 Both games are live: Play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and  play Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
 
-
+<br/><br/>
 
 
 ## Landscape Painting with GANs (2019)
@@ -52,7 +52,7 @@ Developed a grid-based game with Swift and principled MVC design that adapts to 
 
 
 
-
+<br/><br/><br/><br/>
 
 
 ## Playlist Recommendation with Spotify’s Million Playlist Dataset (2018)
