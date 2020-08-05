@@ -28,6 +28,7 @@ Scraped the web for 20,000 paintings and used Google cloud GPUs to train DCGANs;
 
 
 ## Reinforcement Learning Project (2019)
+<img src="formula.png" alt="formula" width="500"/>
 Researched and implemented theory to train linear models from scratch and neural nets with TensorFlow for OpenAI Gym control environments.
 <a href="rl.html" target="_blank"> See the jupyter notebook </a>
 
