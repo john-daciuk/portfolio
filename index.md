@@ -10,7 +10,7 @@ Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
 ## Connect 4 (2020)
-![Pente](pente.png)
+<img src="pente.jpg" alt="Connect 4" width="50"/>
 A variation on Connect 4 I built to learn about HTML5 Canvas.
 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a>
 
@@ -40,7 +40,7 @@ Researched and implemented theory to train linear models from scratch and neural
 
 
 ## Programming and Problem Solving Projects (2019)
-![](pps1.png) ![](pps2.png) ![](pps3.png) ![](pps4.png)
+<img src="pps1.jpg" alt="Connect 4" width="50"/> <img src="pps2.jpg" alt="Connect 4" width="50"/>
 PPS is a course I took at columbia which emphasizes collaboration on difficult open-ended problems to be solved through programming.  For the project 'Lunch' <a href="lunch.pdf" target="_blank"> (see our paper) </a> my team built an autonomous agent capable of coordinating strategy with the other teams' agents.  For the project 'Mutation', my team used theory from causal inference to build a model capable of predicting underlying mutation rules from many observations of digital experiments <a href="mutation.pdf" target="_blank"> (read our mathematical analysis) </a>.  For another project my team analyzed the robustness of different systems of voting and representation to gerrymandering.  We tessellated a fictitious country of 300,000+ voters with Voronoi districts and simulated results using SciPy and Monte-Carlo techniques <a href="threeland.pdf" target="_blank"> (see a detailed exposition of our techniques) </a>.  The project 'Flip', similar to 'Lunch', emphasized building an agent that could strategize dynamically.  We had a class tournament to simulate hundreds of 1 on 1 matches between the different teams and my team came in 2nd place out of 8 <a href="flip.pdf" target="_blank"> (see our report) </a>.
 
 
