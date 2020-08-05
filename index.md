@@ -12,7 +12,9 @@ See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed meth
 ## Connect 4 and Simon (2020)
 <img align="left" src="pente.png" alt="Connect 4" width="200"/>  <img align="left" src="simon.png" alt="Simon" width="185"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  
 
-Both games are live; play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
+Both games are live:
+
+Play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and  play Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
 
 
 
