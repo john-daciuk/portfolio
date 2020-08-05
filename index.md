@@ -10,7 +10,7 @@ Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
 ## Connect 4 and Simon (2020)
-<img align="left" src="pente.png" alt="Connect 4" width="200" border="30"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  
+<img align="left" src="pente.png" alt="Connect 4" width="200"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  
 
 Both games are live: Play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and  play Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
 
@@ -47,7 +47,9 @@ Developed a grid-based game with Swift and principled MVC design that adapts to 
 
 
 ## Comparative Analysis of SGD Optimization Variants (2018)
-<img src="SGD.png" align="left" alt="SGD" width="300"/> Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
+<img src="SGD.png" align="left" alt="SGD" width="325"/> 
+
+Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
 
 
 
