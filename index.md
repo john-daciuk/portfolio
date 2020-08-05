@@ -54,6 +54,9 @@ Developed a grid-based game with Swift and principled MVC design that adapts to 
 
 
 
+
+
+
 ## Playlist Recommendation with Spotify’s Million Playlist Dataset (2018)
 Utilized Python, Pandas, scikit-learn and random forests to build a recommendation system able to generate playlists; evaluated with r-precision.
 <a href="https://tralpha.github.io/spotify-project/project-statement-and-goals.html" target="_blank"> See my team's work here </a>
