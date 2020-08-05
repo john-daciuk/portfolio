@@ -11,9 +11,11 @@ See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed meth
 
 ## Connect 4 (2020)
 <img align="left" src="pente.png" alt="Connect 4" width="200"/> A variation on Connect 4 I built to learn about HTML5 Canvas.
-<a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a>
 
-<br>
+<h2> <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a> </h2>
+
+<p> </p>
+
 
 ## Simon (2020)
 A challenging memory game I built while learning Javascript through Angela Yu's web development course on Udemy.
