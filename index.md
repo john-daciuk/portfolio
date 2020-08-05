@@ -10,7 +10,7 @@ Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
 ## Connect 4 (2020)
-<img src="pente.png" alt="Connect 4" width="50"/> A variation on Connect 4 I built to learn about HTML5 Canvas.
+<img align="left" src="pente.png" alt="Connect 4" width="50"/> A variation on Connect 4 I built to learn about HTML5 Canvas.
 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a>
 
 
