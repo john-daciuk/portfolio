@@ -10,7 +10,9 @@ Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
 ## Connect 4 and Simon (2020)
-<img align="left" src="pente.png" alt="Connect 4" width="200"/>  <img align="left" src="simon.png" alt="Simon" width="200"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  Both games are live; play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
+<img align="left" src="pente.png" alt="Connect 4" width="200"/>  <img align="left" src="simon.png" alt="Simon" width="180"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  
+
+Both games are live; play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
 
 
 
