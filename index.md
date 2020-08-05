@@ -21,7 +21,7 @@ A challenging memory game I built while learning Javascript through Angela Yu's 
 
 
 ### Landscape Painting with GANs (2019)
-![Paintings](paintings.jpg)
+![Paintings](paintings.png)
 
 Scraped the web for 20,000 paintings and used Google cloud GPUs to train DCGANs; created thousands of beautiful and novel paintings in 128x128 resolution.
 <a href="DL-final-project training.html" target="_blank"> Learn more about the data collection and training </a>
