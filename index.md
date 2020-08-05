@@ -49,7 +49,7 @@ Developed a grid-based game with Swift and principled MVC design that adapts to 
 
 
 ## Comparative Analysis of SGD Optimization Variants (2018)
-<img src="SGD.png" alt="SGD" width="200"/> Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
+<img src="SGD.png" align="left" alt="SGD" width="200"/> Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
 
 
 
