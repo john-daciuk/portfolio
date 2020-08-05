@@ -75,6 +75,8 @@ Produced insightful animations with NumPy and matplotlib to accentuate convergen
 <br/><br/><br/><br/>
 
 
+
+
 ## Playlist Recommendation with Spotify’s Million Playlist Dataset (2018)
 Utilized Python, Pandas, scikit-learn and random forests to build a recommendation system able to generate playlists; evaluated with r-precision.
 <a href="https://tralpha.github.io/spotify-project/project-statement-and-goals.html" target="_blank"> See my team's work here </a>
