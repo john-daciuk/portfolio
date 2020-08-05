@@ -4,7 +4,7 @@
 Spearheaded a team of three to write a technical paper threading together recent works devoted to MPC algorithms for graph and DP problems.
 <a href="Advanced_Algorithms_Project.pdf" target="_blank" >  Read the paper here </a>
 
-### Kaggle Covid-19 Competition
+### Kaggle Covid-19 Competition (2020)
 Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
