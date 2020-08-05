@@ -9,17 +9,8 @@ Spearheaded a team of three to write a technical paper threading together recent
 Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
 
-## Connect 4 (2020)
-<img align="left" src="pente.png" alt="Connect 4" width="200"/> A variation on Connect 4 I built to learn about HTML5 Canvas.
-
-<h2> <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a> </h2>
-
-<p> </p>
-
-
-## Simon (2020)
-A challenging memory game I built while learning Javascript through Angela Yu's web development course on Udemy.
-<a href="https://john-daciuk.github.io/simon-game/" target="_blank"> Play here (2020) </a>
+## Connect 4 and Simon (2020)
+<img align="left" src="pente.png" alt="Connect 4" width="200"/>  <img align="left" src="simon.png" alt="Simon" width="200"/> I built a variation of Connect 4 to get experience with HTML5 Canvas.  Simon is a memory game I coded in JavaScript while taking Angela Yu's web development course on Udemy.  Both games are live; play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
 
 
 
