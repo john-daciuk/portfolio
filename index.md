@@ -5,7 +5,7 @@ Spearheaded a team of three to write a technical paper threading together recent
 <a href="Advanced_Algorithms_Project.pdf" target="_blank" >  Read the paper here </a>
 
 ## Kaggle Covid-19 Competition (2020)
-<img src="covid3.png" align="left" alt="Covid" width="200"/>
+<img src="covid3.png" align="left" alt="Covid" width="175"/>
 
 Cleaned and augmented data; trained a CNN to diagnose based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
 See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
@@ -29,7 +29,9 @@ Both games are live: Play Connect 4 <a href="https://john-daciuk.github.io/pente
 ![Paintings](paintings.png)
 
 Scraped the web for 20,000 paintings and used Google cloud GPUs to train DCGANs; created thousands of beautiful and novel paintings in 128x128 resolution.
+
 <a href="DL-final-project training.html" target="_blank"> Learn more about the data collection and training </a>
+
 <a href="DL-final-project-results.html" target="_blank"> See generated paintings and analysis of trained GANs </a>
 
 
@@ -43,7 +45,7 @@ Researched and implemented theory to train linear models from scratch and neural
 
 
 ## Programming and Problem Solving Projects (2019)
-<img src="pps2.png" alt="Threeland" width="130"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="pps3.png" align="right" alt="Mutation" width="200"/>
+<img src="pps3.png" align="center" alt="Mutation" width="200"/>
 
 PPS is a course I took at columbia which emphasizes collaboration on difficult open-ended problems to be solved through programming.  For the project 'Lunch' <a href="lunch.pdf" target="_blank"> (see our paper) </a> my team built an autonomous agent capable of coordinating strategy with the other teams' agents.  For the project 'Mutation', my team used theory from causal inference to build a model capable of predicting underlying mutation rules from many observations of digital experiments <a href="mutation.pdf" target="_blank"> (read our mathematical analysis) </a>.  For another project my team analyzed the robustness of different systems of voting and representation to gerrymandering.  We tessellated a fictitious country of 300,000+ voters with Voronoi districts and simulated results using SciPy and Monte-Carlo techniques <a href="threeland.pdf" target="_blank"> (see a detailed exposition of our techniques) </a>.  The project 'Flip', similar to 'Lunch', emphasized building an agent that could strategize dynamically.  We had a class tournament to simulate hundreds of 1 on 1 matches between the different teams and my team came in 2nd place out of 8 <a href="flip.pdf" target="_blank"> (see our report) </a>.
 
