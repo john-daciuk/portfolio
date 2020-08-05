@@ -12,7 +12,7 @@ See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed meth
 ## Connect 4 (2020)
 ![Pente](pente.png)
 A variation on Connect 4 I built to learn about HTML5 Canvas.
-<a href="https://john-daciuk.github.io/pente/" target="_blank"> Play here </a>
+<a href="https://john-daciuk.github.io/pente-js/" target="_blank"> Play here </a>
 
 
 
