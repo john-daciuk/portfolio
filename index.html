@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Portfolio</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;700&display=swap" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>John Daciuk's Portfolio</h1>
+        <img src="me2.png" alt="Me" width="175"/>
+      <p>
+        John Daciuk is currently earning a M.S. in Computer Science from Columbia University and is expected to graduate December 2020.  Before joining Columbia, John studied Computer Science at the Harvard Extension School.  John also holds a Masters in Teaching and founded a <a href="https://www.johndaciuk.com" target="_blank"> tutoring business </a> through which he worked with over 800 students for the SAT, ACT, A.P. Calculus and Physics.
+      </p>
+      </header>
+
+
+      <section>
+        <h1 class='title'>Projects in Computer Science</h1>
+
+        <h2>Synthesis of Recent Advances in Massively Parallel Computation (2020)</h2>
+        Spearheaded a team of three to write a technical paper threading together recent works devoted to MPC algorithms for geometric graph and DP problems.
+        We give an overview of modern parallel algorithm design, with special attention to applications of Massive Parallel Computation. We first highlight broad ideas by outlining how well known problems can be efficiently solved with MPC.
+        After presenting algorithms for sorting and maximal matching, we analyze the Minimum Spanning Tree problem in Euclidean space from [And+14], and synthesize the progress in [IMS17] for the Weighted Interval Selection problem.
+        <a href="Advanced_Algorithms_Project.pdf" target="_blank" >  Read the paper here</a>.
+
+        <br/><br/>
+
+        <h2>Kaggle Covid-19 Competition (2020)</h2>
+        <img src="covid.png" align="right" alt="Covid" style="margin-left: 20px" width="100"/>
+
+        Cleaned and augmented x-ray image data of various qualities and resolutions; trained a CNN in Keras to diagnose between 4 classes based on patients’ chest x-rays; achieved over 80% weighted accuracy with fewer than 1200 training samples.
+        The success of the model rests on skilled preprocessing techniques, a weighted loss function aligned to the final metric, grid-search to optimize hyperparameters and the power of CNNs to classify images.
+        See <a href="ML_Project_Report.pdf" target="_blank"> here </a> for detailed methodology and results.
+
+        <br/><br/>
+
+        <h2>Connect 4 and Simon (2020)</h2>
+        <img align="right" src="pente.png" alt="Connect 4" style="margin-left: 20px" width="175"/>
+        Built a variation of Connect 4 to get experience with HTML5 Canvas.  Coded Simon, a memory game, in JavaScript while taking Angela Yu's web development course on Udemy.
+        Also gained experience with DOM, Bootstrap and jQuery.
+        <br/><br/>
+        Both games are live: Play Connect 4 <a href="https://john-daciuk.github.io/pente-js/" target="_blank"> here </a> and  play Simon <a href="https://john-daciuk.github.io/simon-game/" target="_blank"> here </a>
+
+        <br/><br/><br/>
+
+
+        <h2>Landscape Painting with GANs (2019)</h2>
+        <img src="paintings.png" alt="landscapes" width="500"/>
+        <br/>
+        Scraped the web for 20,000 paintings and used Google cloud GPUs to train DCGANs; created thousands of beautiful and novel paintings in 128x128 resolution.
+        Learn more about the data collection and training
+        <a href="DL-final-project training.html" target="_blank"> here</a>; see generated paintings and analysis of trained GANs
+        <a href="DL-final-project-results.html" target="_blank"> here.</a>
+
+
+        <br/><br/>
+
+        <h2>Reinforcement Learning Project (2019)</h2>
+        <img src="rl2.png" align="left" alt="SGD" style="margin-top:20px" width="150"/> <img src="rl3.png" alt="SGD" style="margin-left:40px; margin-right:5px" width="150"/> <img src="rl4.png" alt="SGD" width="150"/>
+        Researched and implemented theory to train linear models from scratch and neural nets with TensorFlow for OpenAI Gym control environments.
+        See the jupyter notebook<a href="rl.html" target="_blank"> here.</a>
+
+        <br/><br/>
+
+
+        <h2>COMS 4444 Projects (2019)</h2>
+        COMS 4444 (Programming and Problem Solving) is a course I took at columbia which emphasizes collaboration on difficult open-ended problems to be solved through programming.  For the project 'Lunch' <a href="lunch.pdf" target="_blank"> (see our paper) </a> my team built an autonomous agent capable of coordinating strategy with the other teams' agents.  For the project 'Mutation', my team used theory from causal inference to build a model capable of predicting underlying mutation rules from many observations of digital experiments <a href="mutation.pdf" target="_blank"> (read our mathematical analysis)</a>.  For the project 'Threeland' my team analyzed the robustness of different systems of voting and representation to gerrymandering.  We tessellated a fictitious country of 300,000+ voters with Voronoi districts and simulated results using SciPy and Monte-Carlo techniques <a href="threeland.pdf" target="_blank"> (see a detailed exposition of our techniques)</a>.  The project 'Flip', similar to 'Lunch', emphasized building an agent that could strategize dynamically.  We had a class tournament to simulate hundreds of 1 on 1 matches between the different teams and my team came in 2nd place out of 8 <a href="flip.pdf" target="_blank"> (see our report)</a>.
+
+
+        <br/><br/>
+
+
+        <h2>Pente for iOS (2018)</h2>
+        Developed a grid-based game with Swift and principled MVC design that adapts to any device size; leveraged Google Firebase to allow online play; used custom view classes and protocols.
+
+
+        <br/><br/>
+
+        <h2>Comparative Analysis of SGD Optimization Variants (2018)</h2>
+        <img src="SGD.png" align='right' alt="SGD" style="margin-left: 20px" width="220"/>
+        Produced insightful animations with NumPy and matplotlib to accentuate convergence differences between AdaDelta, Adam and AdaGrad algorithms. <a href="GD_animations.html" target="_blank"> See the jupyter notebook </a>
+        Tested on popular analytic loss functions such as Bukin and Camel, as well as least squares regression and neural network models.
+
+
+
+        <br/><br/>
+
+
+
+
+        <h2>Playlist Recommendation with Spotify’s Million Playlist Dataset (2018)</h2>
+        Utilized Python, Pandas, scikit-learn and random forests to build a recommendation system able to generate playlists; evaluated with r-precision.
+        <a href="https://tralpha.github.io/spotify-project/project-statement-and-goals.html" target="_blank"> See my team's work here </a>
+
+
+
+      </section>
+
+      <footer>
+        <p>This project is maintained by John Daciuk</a></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
