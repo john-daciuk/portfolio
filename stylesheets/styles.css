@@ -11,6 +11,14 @@ p {
   font-size: 12pt;
 }
 
+.image_box {
+  padding-bottom: 0px;
+}
+
+div {
+  padding-bottom: 50px;
+}
+
 h1 {
   color: #000000;
   font-weight: 700;
